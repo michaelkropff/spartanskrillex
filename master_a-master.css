@@ -1,0 +1,26 @@
+#u105
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u2016
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #721012;
+	position: fixed;
+}
+
+#u1019-15,#u866-7
+{
+	font-size: 11px;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 13px;
+	position: relative;
+}
+
